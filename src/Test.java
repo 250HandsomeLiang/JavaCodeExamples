@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) throws Exception {
-
     String str="Liang JIa";
     switch (str){
         case "Tiancai":
