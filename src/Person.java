@@ -3,7 +3,9 @@ public abstract  class Person {
    String name="Tianxia";
    int age;
 
-
+   Person(){
+      System.out.println("Yes");
+   }
 
 
    public abstract void Print();

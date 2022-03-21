@@ -12,6 +12,7 @@ public class Student extends Person{
         this.name=name;
         this.age=age;
         Student.testNum=Student.testNum+1;
+        System.out.println("W");
     }
 
     @Override
