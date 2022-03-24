@@ -12,7 +12,9 @@ public abstract  class Person {
    public void isPerson(){
        System.out.println("I'm a person");
    }
-
+   public void PrintName(){
+      System.out.println(this.name);
+   }
 
 }
 
